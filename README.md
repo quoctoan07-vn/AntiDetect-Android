@@ -100,5 +100,5 @@ AntiDetect-Android provides:
 - (Optional) Unidbg or QEMU‑user for emulation
 
 <p align="center">
-  <b><big>🔥 Mua code antiban external ib telegram @quoctoansieudz 🔥</big></b>
+  <b><big>Mua code antiban external ib telegram @quoctoansieudz</big></b>
 </p>
