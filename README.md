@@ -99,4 +99,6 @@ AntiDetect-Android provides:
 - [Frida](https://frida.re) installed on host and device (for the Frida script)
 - (Optional) Unidbg or QEMU‑user for emulation
 
-Mua code antiban external ib telegram @quoctoansieudz
+<p align="center">
+  <b><big>🔥 Mua code antiban external ib telegram @quoctoansieudz 🔥</big></b>
+</p>
